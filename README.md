@@ -14,3 +14,5 @@ Group 6: https://github.com/xhvogli15/MMS
 Group 7: https://github.com/andisxhaferraj/Software-Engineering-Project
 
 Group 10: https://github.com/kferko15/kf15
+
+Group 8 : https://github.com/ehoxha15/RMS
