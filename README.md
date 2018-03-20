@@ -5,6 +5,8 @@ SE Project Names
 
 Group 1: https://github.com/ddaja15/meetly
 
+Group 2: https://github.com/oruda15/BarManagementSystem
+
 Group 3: https://github.com/arblitroshani/SEproj
 
 Group 4: https://github.com/sqirko15/PMS
